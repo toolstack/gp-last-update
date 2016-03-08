@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: GlotPress Last Update
+Plugin Name: GP Last Update
 Plugin URI: http://glot-o-matic.com/gp-last-update
 Description: Adds a "Last Update" column to the translation set list in GlotPress.
 Version: 0.5
-Author: gregross
+Author: GregRoss
 Author URI: http://toolstack.com
 Tags: glotpress, glotpress plugin 
 License: GPLv2

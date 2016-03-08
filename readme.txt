@@ -1,5 +1,5 @@
 === GP Last Update ===
-Contributors: gregross
+Contributors: GregRoss
 Donate link: http://toolstack.com/donate
 Plugin URI: http://glot-o-matic.com/gp-last-update
 Author URI: http://toolstack.com
@@ -10,11 +10,11 @@ Stable tag: 0.5
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A plugin for [GlotPress as a WordPress plugin](https://github.com/deliciousbrains/GlotPress) that adds a column to the translation set list to display the last time they were updated.
+A plugin for GlotPress as a WordPress plugin that adds a column to the translation set list to display the last time they were updated.
 
 == Description ==
 
-A plugin for [GlotPress as a WordPress plugin](https://github.com/deliciousbrains/GlotPress) that adds a column to the translation set list to display the last time they were updated.
+A plugin for [GlotPress as a WordPress plugin](https://github.com/GlotPress/GlotPress-WP) that adds a column to the translation set list to display the last time they were updated.
 
 == Installation ==
 
