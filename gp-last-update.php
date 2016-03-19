@@ -27,7 +27,7 @@ class GP_Last_Update {
 		$reqperm = strtolower( gp_const_get('GP_LAST_UPDATE_REQUIRED_PERMISSION', false) );
 		
 		// If it's not recognized as read or approve, force it to admin.
-		if( $reqprem != 'read' || $reqperm != 'approve' ) { $reqperm = 'admin'; }
+		if( $reqperm != 'read' || $reqperm != 'approve' ) { $reqperm = 'admin'; }
 
 		// Check to see the current user has permissions.
 		if( GP::$permission->current_user_can( $reqperm, 'project' ) ) {
